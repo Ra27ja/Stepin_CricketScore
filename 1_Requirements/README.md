@@ -14,5 +14,3 @@ HIGH LEVEL REQUIREMENTS
 	2-	To store the symbol of the element.
 	3-	To store the atomic number of the element.
 	4-	To store the atomic mass of the element.
-	
-	TOOLS USED : MS WORD , CODEBLOCKS IDE, GIT bash .
